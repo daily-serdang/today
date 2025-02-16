@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /index.html
+
+Sitemap: https://daily-serdang.github.io/today/sitemaps.xml
